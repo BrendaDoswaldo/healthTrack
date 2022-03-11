@@ -1,0 +1,78 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+input::placeholder {
+    color: #939393 !important;
+    font-weight: 300;
+    font-size: 1.2rem;
+}
+
+.bg-pink {
+    background-color: #ED145B;
+}
+
+
+.text-pink {
+    color: #ED145B;
+}
+
+.btn-pink {
+    background-color: #ED145b;
+    color: white;
+}
+
+.btn-pink:hover {
+    color: white;
+}
+
+.bg-gray {
+    background-color: #FAFAFA;
+}
+
+.form-negative-spacing {
+    margin-top: -28px;
+}
+
+.title-big {
+    font-size: 50px;
+}
+
+.subtitle {
+    font-size: 35px;
+}
+
+.text-light-gray {
+    color: #939393;
+}
+
+.square, .bg-gray-alt {
+   background-color: #F4F4F4; 
+}
+
+.square img {
+    height: 45px;
+    width: 45px;
+}
+
+.button-plus {
+    background-color: #ED145b;
+    border: none;
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -45px;
+}
+
+.text-big {
+    font-size: 2.3rem;
+}
+
+.accordion-button:not(.collapsed) {
+    color: #212529;
+    background-color: #F4F4F4; 
+}
